@@ -2,7 +2,7 @@
 
 > Used for bypassing some shit anticheats for Unity games
 
-
+**Need a Mono injector to inject!**  such as ---> https://github.com/warbler/SharpMonoInjector
 
 1. Right click references and press "Add Reference...".
 2. Find your game folder.
