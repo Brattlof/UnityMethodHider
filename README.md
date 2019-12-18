@@ -1,4 +1,4 @@
-# Spotify Crack - Chrome App
+# Unity Method Hider
 
 > Used for bypassing some shit anticheats for Unity games
 
