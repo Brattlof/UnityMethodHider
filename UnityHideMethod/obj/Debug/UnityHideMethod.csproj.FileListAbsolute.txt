@@ -1,0 +1,5 @@
+C:\Users\Albin\Documents\Sources\UnityHideMethod\UnityHideMethod\obj\Debug\UnityHideMethod.csprojAssemblyReference.cache
+C:\Users\Albin\Documents\Sources\UnityHideMethod\UnityHideMethod\bin\Debug\UnityHideMethod.dll
+C:\Users\Albin\Documents\Sources\UnityHideMethod\UnityHideMethod\bin\Debug\UnityHideMethod.pdb
+C:\Users\Albin\Documents\Sources\UnityHideMethod\UnityHideMethod\obj\Debug\UnityHideMethod.dll
+C:\Users\Albin\Documents\Sources\UnityHideMethod\UnityHideMethod\obj\Debug\UnityHideMethod.pdb
