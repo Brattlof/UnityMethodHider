@@ -51,7 +51,8 @@ class Final
 
 
         Derived obj = new Derived();
-
+        
+        obj.Init();
         obj.OnGui();
         obj.Update();
 
