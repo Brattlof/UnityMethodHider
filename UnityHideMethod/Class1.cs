@@ -23,7 +23,7 @@ public class Base : MonoBehaviour
 public class Derived : Base
 {
 
-    public static void Init()
+    public static void Init() // call in mono injector
     {
         handle = new GameObject();
         handle.AddComponent<Derived>();
@@ -46,13 +46,11 @@ class Final
 {
 
   
-    static public void Main()
+    public static void Main()
     {
-
-
+        
         Derived obj = new Derived();
         
-        obj.Init();
         obj.OnGui();
         obj.Update();
 
